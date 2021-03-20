@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi. I'm Lesandro Ponciano. I research and teach Human-Computer Interaction, Cooperative Systems, Scientific Methodology, and other cool things in the area of Information Systems and Software Engineering. Yes, you are right: I love computers and people; I also love science and education. You're right again, I still code, less often than I would like, but I code.
+
 <!--
 **lesandrop/lesandrop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
