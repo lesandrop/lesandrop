@@ -1,6 +1,6 @@
 ### Hi. I'm Lesandro Ponciano :handshake:
 
-I research and teach Human-Computer Interaction, Cooperative Systems, Scientific Methodology, and other cool things in the areas of Information Systems and Software Engineering.
+I research Distributed Computing, Human-Computer Interaction, Cooperative Systems, and other cool subjects in Information Systems and Software Engineering areas.
 
 - :speech_balloon: I’m [lesandrop](https://twitter.com/lesandrop) on Twitter
 - :school: I’m [0000-0002-5724-0094](https://orcid.org/0000-0002-5724-0094) on OrcID
