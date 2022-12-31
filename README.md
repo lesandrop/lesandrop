@@ -1,12 +1,12 @@
-### Hi. I'm Lesandro Ponciano :handshake:
+### Lesandro Ponciano
 
-I research Distributed Computing, Human-Computer Interaction, Cooperative Systems, and other cool subjects in Information Systems and Software Engineering areas.
+Researcher working on Human-Computer Interaction, Cooperative Systems, and Information Systems areas.
 
-- :school: I’m [0000-0002-5724-0094](https://orcid.org/0000-0002-5724-0094) on OrcID
-- :link: This is my [Google Scholar profile](https://scholar.google.com.br/citations?user=KS9I4P0AAAAJ).
-- :speech_balloon: I’m [lesandrop](https://twitter.com/lesandrop) on Twitter
-- :house: Find other information about me [here](https://lesandrop.github.io/site/)
-- 📺 Some videos [here](https://www.youtube.com/channel/UCnY0aPVH1AxQId92-JKJuZQ)
+- :school: [ORCiD](https://orcid.org/0000-0002-5724-0094)
+- :house:  [Website](https://lesandrop.github.io)
+- 🔭 [Google scholar](https://scholar.google.com.br/citations?user=KS9I4P0AAAAJ)
+
+Here you can find repositories associated to research and teaching activities.
 
 
 <!--
