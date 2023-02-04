@@ -8,6 +8,8 @@ Researcher working on Human-Computer Interaction, Cooperative Systems, and Infor
 
 Here you can find repositories associated to research and teaching activities.
 
+[@lesandrop@fosstodon.org](https://fosstodon.org/@lesandrop)
+
 
 <!--
 **lesandrop/lesandrop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
