@@ -1,16 +1,8 @@
 ### Lesandro Ponciano
 
-Researcher working on Human-Computer Interaction, Cooperative Systems, and Information Systems areas.
+**Researcher and Professor**
 
-- :school: [ORCiD](https://orcid.org/0000-0002-5724-0094)
-- :house:  [Website](https://lesandrop.github.io)
-- 🔭 [Google scholar](https://scholar.google.com.br/citations?user=KS9I4P0AAAAJ)
-
-Here you can find repositories associated to research and teaching activities.
-
-[@lesandrop@mastodon.social](https://mastodon.social/@lesandrop)
-
-
+:house:  [Website](https://lesandrop.github.io) | :school: [ORCiD](https://orcid.org/0000-0002-5724-0094)
 <!--
 **lesandrop/lesandrop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
