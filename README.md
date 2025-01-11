@@ -2,7 +2,7 @@
 
 **Researcher and Professor**
 
-:house:  [Website](https://lesandrop.github.io) | :school: [ORCiD](https://orcid.org/0000-0002-5724-0094)
+:house:  [Website](https://lesandrop.github.io/site) | :school: [ORCiD](https://orcid.org/0000-0002-5724-0094)
 <!--
 **lesandrop/lesandrop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
