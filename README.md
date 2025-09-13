@@ -6,11 +6,6 @@
 
 ## 🧠 Sobre mim
 
-![Localização](https://img.shields.io/badge/Localização-Belo%20Horizonte%2C%20MG-blue?style=flat&logo=google-maps)
-![Pós-doutorado](https://img.shields.io/badge/Pós--doutorado-TU%20Dresden%20🇩🇪-lightgrey)
-![PhD](https://img.shields.io/badge/Ph.D.-Ciência%20da%20Computação-green)
-![Membro SBC](https://img.shields.io/badge/Membro-SBC%20%7C%20SBPC%20%7C%20RICAP-orange)
-
 - 📜 **Pós-doutorado** – TU Dresden, Dresden (2023)  
 - 🎓 **Ph.D. em Ciência da Computação** – UFCG, Campina Grande  (2015)
 - 🎓 **M.Sc. em Ciência da Computação** – UFCG, Campina Grande  (2011)
