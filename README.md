@@ -43,7 +43,7 @@
 
 [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white)](https://lesandrop.github.io/site)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-5724-0094)
-[![Lattes](https://img.shields.io/badge/Lattes-005A9C?style=for-the-badge&logo=read.cv&logoColor=white)]([https://lattes.cnpq.br/](http://lattes.cnpq.br/2211388362277178))
+[![Lattes](https://img.shields.io/badge/Lattes-005A9C?style=for-the-badge&logo=read.cv&logoColor=white)](http://lattes.cnpq.br/2211388362277178)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lesandroponciano/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Lesandro-Ponciano)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lesandrop)
