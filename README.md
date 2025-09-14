@@ -14,7 +14,7 @@
 
 ---
 
-## 📚 Produção Científica
+## 📚 Pesquisa
 
 - 📝 [Autor de artigos em periódicos e conferências](https://orcid.org/0000-0002-5724-0094)  
 - 📈 [Experiência com **pesquisa empírica quantitativa** e **métricas centradas no usuário**](https://lesandrop.github.io/site/papers/index.html)  
@@ -34,7 +34,7 @@
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Mais sobre mim
 
 [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white)](https://lesandrop.github.io/site)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-5724-0094)
