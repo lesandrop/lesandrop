@@ -6,11 +6,13 @@
 
 ## 🧠 Sobre mim
 
-- 📜 **Pós-doutorado** – TU Dresden, Dresden (2023)  
+- 🎓 **Pós-doutorado** – TU Dresden, Dresden (2023)  
 - 🎓 **Ph.D. em Ciência da Computação** – UFCG, Campina Grande  (2015)
 - 🎓 **M.Sc. em Ciência da Computação** – UFCG, Campina Grande  (2011)
 - 🎓 **Bacharel em Sistemas de Informação** – PUC Minas, Belo Horionte (2008)
 - 🏆 Reconhecido por distinções acadêmicas, prêmios de pesquisa e ensino
+  
+- 📜 Sempre que tenho algo a compartilhar, eu publico no [**Blog Academizando**](https://lesandrop.github.io/site/opinion/index.html)
 
 ---
 
