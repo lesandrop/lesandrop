@@ -1,10 +1,10 @@
-# 👋 Olá! Eu sou Lesandro Ponciano
+# 👋 Lesandro Ponciano
 
-🎯 **Pesquisador** nas áreas de **Interação Humano-Computador (IHC)**, **Sistemas Colaborativos** e **Sistemas de Informação**. Atuo na interseção entre **fatores humanos** e **sistemas computacionais**, unindo ciência de ponta e design centrado no ser humano para criar soluções **tecnicamente robustas** e **socialmente relevantes**.
+🎯 Olá! Sou **Lesandro Ponciano**. Atuo como **pesquisador** nas áreas de **Interação Humano-Computador (IHC)**, **Sistemas Colaborativos** e **Sistemas de Informação**. Pesquiso na interseção entre **fatores humanos** e **sistemas computacionais**, unindo ciência de ponta e design centrado no ser humano para criar soluções **tecnicamente robustas** e **socialmente relevantes**.
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 Formação
 
 - 🎓 **Pós-doutorado** – TU Dresden, Dresden (2023)  
 - 🎓 **Ph.D. em Ciência da Computação** – UFCG, Campina Grande  (2015)
@@ -12,8 +12,6 @@
 - 🎓 **Bacharel em Sistemas de Informação** – PUC Minas, Belo Horionte (2008)
 - 🏆 Reconhecido por distinções acadêmicas, prêmios de pesquisa e ensino
   
-- 📜 Sempre que tenho algo a compartilhar, eu publico no [**Blog Academizando**](https://lesandrop.github.io/site/opinion/index.html)
-
 ---
 
 ## 📚 Pesquisa
@@ -33,6 +31,15 @@
   - [Modelagem de Software](https://lesandrop.github.io/site/teaching/PS/index.html)
   - [Teste de Software](https://lesandrop.github.io/site/teaching/TS/index.html)
   - [Trabalho de Conclusão de Curso](https://lesandrop.github.io/site/teaching/TCC/index.html)
+
+---
+
+## 🌍 Sociedade
+
+- [Blog Academizando](https://lesandrop.github.io/site/opinion/index.html)
+- [Registro de Participação em Eventos e Entrevistas](https://lesandrop.github.io/site/history/index.html)
+- [Canal no YouTube com práticas acadêmicas](https://www.youtube.com/@lesandrop)
+
 
 ---
 
