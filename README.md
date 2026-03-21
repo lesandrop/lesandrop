@@ -1,6 +1,6 @@
 # 👋 Lesandro Ponciano
 
-🎯 Olá! Sou **Lesandro Ponciano**. Atuo como **pesquisador** nas áreas de **Interação Humano-Computador (IHC)**, **Sistemas Colaborativos** e **Sistemas de Informação**. Pesquiso na interseção entre **fatores humanos** e **sistemas computacionais**, unindo ciência de ponta e design centrado no ser humano para criar soluções **tecnicamente robustas** e **socialmente relevantes**.
+🎯 Olá! Sou **Lesandro Ponciano**. Atuo como **pesquisador** nas áreas de **Interação Humano-Computador (IHC)**, **Sistemas Colaborativos** e **Sistemas de Informação**. Pesquiso na interseção entre **fatores humanos** e **sistemas computacionais**, unindo ciência de ponta e design centrado no ser humano para criar soluções **tecnicamente robustas** e **socialmente relevantes**. Minhas pesquisas buscam explicar _como os fatores humanos podem ser sistematicamente modelados, mensurados e integrados ao projeto e à otimização de sistemas colaborativos, participativos e computacionais_.
 
 ---
 
