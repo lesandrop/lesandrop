@@ -16,7 +16,7 @@
 
 ## 📚 Pesquisa
 
-- 📝 [Autor de artigos em periódicos e conferências](https://orcid.org/0000-0002-5724-0094)  
+- 📝 [Autor de artigos em periódicos e conferências](https://orcid.org/0000-0002-5724-0094)  | [Artigo recente sobre ação climática](https://doi.org/10.1038/s44168-023-00080-3)
 - 📈 [Experiência com **pesquisa empírica quantitativa** e **métricas centradas no usuário**](https://lesandrop.github.io/site/papers/index.html)  
 - ⚙️ [Contribuições para infraestrutura de **computação paralela e distribuída** aplicada à ciência](http://lattes.cnpq.br/2211388362277178)
 
