@@ -37,7 +37,6 @@
 ## 🌍 Sociedade
 
 - [Blog Academizando](https://lesandrop.github.io/site/opinion/index.html)
-- [Registro de Participação em Eventos e Entrevistas](https://lesandrop.github.io/site/history/index.html)
 - [Canal no YouTube com práticas acadêmicas](https://www.youtube.com/@lesandrop)
 
 
